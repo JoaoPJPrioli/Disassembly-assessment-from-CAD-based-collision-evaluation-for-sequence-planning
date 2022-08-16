@@ -1,6 +1,8 @@
 # Disassembly-assessment-from-CAD-based-collision-evaluation-for-sequence-planning
 Data and code available for the paper Disassembly assessment from CAD-based collision evaluation for sequence planning
 
+![alt text](https://github.com/JoaoPJPrioli/Disassembly-assessment-from-CAD-based-collision-evaluation-for-sequence-planning/blob/main/Images/CAD_2_results.png "Disassembly Sequence Network")
+
 Repository contents:
   1. Experiment_CAD -> Assembly CAD file used in the paper
   2. Experiment_results -> CAD file derivated in each disassembly level
